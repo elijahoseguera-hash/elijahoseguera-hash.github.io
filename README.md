@@ -1,7 +1,4 @@
 # elijahoseguera-hash.github.io
-<table>
-  <tr>
-    <th colspan="2">Blah</th>
-    <td>Blah</td>
-  </tr>
-</table>
+<body>
+  <h1>I'll be Right Back</h1>
+</body>
