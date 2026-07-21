@@ -1,4 +1,30 @@
+<!DOCTYPE html>
+<head>
+<title>Ventura County Fair-News Article Assignment-EO</title>
+</head>
 <body>
-<h1>Wildfires around Ojai Valley</h1>
-<p>
+<!--First Section-->
+<h1 style="text-align: center;">Ventura County Fair</h1>
+<p>The annual VC Fair is opening July 30th and is going to last up until August 10th.
+The fair is a fun event for residents or people visiting, allowing them to enjoy food, attractions, concerts, etc. throughout it's 10-day run.
+This year, the fair is expecting some notable artists to perform.</p>
+<!--Second Section-->
+<h2 style="text-align: center;">Fair Entertainment</h2>
+<p>The fair will feature multiple musical artists/groups, such as Bush, Marshmallow, Iration, Jake Owen, and more. 
+Each person or group will play on a different day from July 29th through August 9th.</p>
+<p>Along with the concerts, different days will have different events for visitors to either participate in or watch.
+ Some include the Hunter Jumper English Show, Community Heroes Day, Food Share Day, and many others. There's also the Flying U Rodeo as well.</p>
+ <p>The fair, as always, will also have it's attractions, such as the ferris wheel. There will be plenty of food trucks present around just about every corner, which serve some of the greatest tasting dishes around.</p>
+ <hr/>
+ <!--Fair History Section-->
+<h2 style="text-align: center;">Fair History</h2>
+<p>The Ventura County Fair was more officially established in 1891, though it began 17 years prior after Ventura County split from Santa Barbara County.
+The fair showed growth over the years, though in the '30s and '40s it was heavily affected by the Great Depression.</br></p>
+<p>During the <i>Second World War</i>, the US Government gained control of Seaside Park—which is where the fair is located—to station troops there in order to ensure protection of the West Coast.
+</p>After the war, the fair was purhcased by the State. 
+In the '80s, the Board and County wanted to add a 80,000 square-foot facility in place of two Quonset huts that were added after the war in 1946, though a ballot from a committee in favor of the fair didn't allow it.
+In 2009, during the Great Recession, Governor Schwarzenegger proposed that Seaside Park (which includes the fairgrounds) should be sold, along with several other state landmarks.
+The President of the VC Board told Schwarzenegger, <q><em>It will not be sold, period. It's a public treausre and a public trust.</em></q></br></p>
+Since then, the fair has remained open, bringing joy, food, and entertainment to the county, while also serving the county during times of crisis or emergency (such as during the <i>Thomas Fire</i> in 2017, or giving out vaccines during the <i>COVID pandemic</i>).
 </body>
+</html>
