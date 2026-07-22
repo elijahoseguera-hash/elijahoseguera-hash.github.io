@@ -3,4 +3,4 @@
   <blockquote>I'll be Right Back.</blockquote>
   <footer><i>-Elijah Oseguera<i></footer>
 </body>
-<strong>Yes</strong>
+<href="https://github.com/elijahoseguera-hash/elijahoseguera-hash.github.io/blob/main/online-news-article">assignment</href>
